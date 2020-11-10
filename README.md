@@ -26,10 +26,10 @@ to run the code
     2. /documents -> where the documents are stored
     3. /results -> an empty folder to save the results inside it
 
-    /--directory_path
-    ├── documents
-    │   ├── doc1.txt
-    │   └── ...
-    ├── stop_words.txt
-    │
-    └── results
+    /--directory_path\
+    ├── documents\
+    │   ├── doc1.txt\
+    │   └── ...\
+    ├── stop_words.txt\
+    │\
+    └── results\
