@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.13.3":{"hashes":[["/Users/emadarmiti/Desktop/cap-s5/information_retieval/positional_inverted_index/src/main/scala/Inverted_Index/Inverted_Index.scala","9e9c4ee7bf92f744a99423c69494bbf33832d5bd"]],"lastModifiedTimes":[]}}]
