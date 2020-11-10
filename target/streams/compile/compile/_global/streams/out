@@ -1,8 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/emadarmiti/Desktop/cap-s5/information_retieval/positional_inverted_index/project/target/.sbt-compilation-infos/positional_inverted_index-compile/.sbt-idea-lock ...[0m
-[0m[[0m[33mwarn[0m] [0m[0m/Users/emadarmiti/Desktop/cap-s5/information_retieval/positional_inverted_index/src/main/scala/Inverted_Index/Inverted_Index.scala:201:21: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Left(_)[0m
-[0m[[0m[33mwarn[0m] [0m[0m        .map(x => x.element match {[0m
-[0m[[0m[33mwarn[0m] [0m[0m                    ^[0m
-[0m[[0m[33mwarn[0m] [0m[0m2 deprecations (since 2.13.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
-[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/emadarmiti/Desktop/cap-s5/information_retieval/positional_inverted_index/project/target/.sbt-compilation-infos/positional_inverted_index-compile/.sbt-idea-lock.[0m
